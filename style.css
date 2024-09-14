@@ -94,7 +94,7 @@ body {
 } 
 
 
-@media (max-width: 640px){
+ (max-width: 640px){
   .slider {
     flex-direction: column;
     max-width: 100%;
